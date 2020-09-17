@@ -13,3 +13,4 @@ Use BluePrint
 * [x] 06 Prototype
 * [x] 07 TemplateMethod
 * [x] 08 Facade
+* [x] 09 Builder 
