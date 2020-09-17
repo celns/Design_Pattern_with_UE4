@@ -14,4 +14,6 @@ Use BluePrint
 * [x] 07 TemplateMethod
 * [x] 08 Facade
 * [x] 09 Builder
-* [x] 10 Observer(interface)
+* [x] 10_1 Observer(interface)
+* [ ] 10_2 Observer(delegate)
+* [ ] 
