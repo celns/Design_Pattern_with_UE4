@@ -15,5 +15,5 @@ Use BluePrint
 * [x] 08 Facade
 * [x] 09 Builder
 * [x] 10_1 Observer(interface)
-* [ ] 10_2 Observer(delegate)
-* [ ] 
+* [x] 10_2 Observer(delegate)
+* [x] 11 AbstractFactory
