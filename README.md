@@ -17,3 +17,4 @@ Use BluePrint
 * [x] 10_1 Observer(interface)
 * [x] 10_2 Observer(delegate)
 * [x] 11 AbstractFactory
+* [X] 12 State 
