@@ -19,3 +19,4 @@ Use BluePrint
 * [x] 11 AbstractFactory
 * [X] 12 State 
 * [x] 13 Adapter
+* [x] 14 Memento
