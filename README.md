@@ -21,3 +21,4 @@ Use BluePrint
 * [x] 13 Adapter
 * [x] 14 Memento
 * [x] 15 Composite
+* [x] 16 Iterator
