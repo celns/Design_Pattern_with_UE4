@@ -20,3 +20,4 @@ Use BluePrint
 * [X] 12 State 
 * [x] 13 Adapter
 * [x] 14 Memento
+* [x] 15 Composite
