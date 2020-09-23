@@ -22,3 +22,4 @@ Use BluePrint
 * [x] 14 Memento
 * [x] 15 Composite
 * [x] 16 Iterator
+* [ ] 17 Singleton
