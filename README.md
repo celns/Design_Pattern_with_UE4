@@ -23,3 +23,4 @@ Use BluePrint
 * [x] 15 Composite
 * [x] 16 Iterator
 * [ ] 17 Singleton
+* [x] 18 Implementor
