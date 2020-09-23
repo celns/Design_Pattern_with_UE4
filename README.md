@@ -25,3 +25,4 @@ Use BluePrint
 * [ ] 17 Singleton
 * [x] 18 Implementor
 * [x] 19 Command
+* [x] 20 ChainOfResponsibility
