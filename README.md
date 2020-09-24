@@ -29,3 +29,4 @@ Unreal Engine 4.25.3
 * [x] 20 ChainOfResponsibility
 * [x] 21 Mediator
 * [x] 22 Flyweight 
+* [x] 23 Interpreter
