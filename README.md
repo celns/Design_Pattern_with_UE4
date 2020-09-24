@@ -26,3 +26,4 @@ Use BluePrint
 * [x] 18 Implementor
 * [x] 19 Command
 * [x] 20 ChainOfResponsibility
+* [x] 21 Mediator
