@@ -1,7 +1,8 @@
 # Design_Pattern_with_UE4
+使用UE4蓝图实现设计模式原型
 Unreal Engine 4.25.3
 
-Use BluePrint
+***
 
 ## Index
 
@@ -27,3 +28,4 @@ Use BluePrint
 * [x] 19 Command
 * [x] 20 ChainOfResponsibility
 * [x] 21 Mediator
+* [x] 22 Flyweight 
