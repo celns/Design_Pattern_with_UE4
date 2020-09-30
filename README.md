@@ -16,7 +16,7 @@ Unreal Engine 4.25.3
 * [x] 08 Facade
 * [x] 09 Builder
 * [x] 10_1 Observer(interface)
-* [x] 10_2 Observer(delegate)
+* [ ] 10_2 Observer(delegate)
 * [x] 11 AbstractFactory
 * [X] 12 State 
 * [x] 13 Adapter
@@ -41,6 +41,9 @@ Unreal Engine 4.25.3
 ## 装饰器模式
 * 可以替代继承，解决继承爆炸。通过在接口中首先调用父类方法，再调用自身方法来实现
 * 父类方法是由传入的子类实例来实现的，所以可以实现兄弟方法的组合（装饰）
+
+## 建造者-工厂
+* 建造者解决复杂类的创建，并关注零件装配的顺序
 
 
 
